@@ -13,7 +13,13 @@ W tej implementacji w Pythonie możesz bawić się światem komórek – obserwu
 
 
 📁 Struktura projektu:
-<pre> ```text game-of-life/ ├── Main.py ├── GameOfLife.py ├── View.py ├── GameController.py ├── StatisticsWindow.py └── README.md ``` </pre>
+game-of-life/
+├── Main.py
+├── GameOfLife.py
+├── View.py
+├── GameController.py
+├── StatisticsWindow.py
+└── README.md
 
 
 ⌨️ Obsługiwane klawisze
