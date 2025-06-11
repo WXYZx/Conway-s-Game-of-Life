@@ -13,6 +13,7 @@ W tej implementacji w Pythonie możesz bawić się światem komórek – obserwu
 
 
 📁 Struktura projektu:
+'''bash
 game-of-life/
   ├── Main.py
   ├── GameOfLife.py
@@ -20,6 +21,7 @@ game-of-life/
   ├── GameController.py
   ├── StatisticsWindow.py
   └── README.md
+'''
 
 
 ⌨️ Obsługiwane klawisze
