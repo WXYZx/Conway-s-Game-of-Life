@@ -14,7 +14,6 @@ W tej implementacji w Pythonie możesz bawić się światem komórek – obserwu
 
 📁 Struktura projektu:
 game-of-life/
-│
 ├── Main.py               
 ├── GameOfLife.py          
 ├── View.py                
